@@ -1,0 +1,6 @@
+*.dll
+*.o
+*.d
+*.exe
+*.kdev4
+bak
